@@ -17,5 +17,9 @@
                 "path": "./themes/Learn Together Theme-color-theme.json"
             }
         ]
+    },
+    "scripts": {
+        "package": "npx vsce package",
+        "publish": "npx vsce publish"
     }
 }
