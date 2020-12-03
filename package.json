@@ -1,0 +1,21 @@
+{
+    "name": "learn-together-theme",
+    "displayName": "Learn Together Theme",
+    "description": "TODO - Daisy will tell you",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Learn Together Theme",
+                "uiTheme": "vs",
+                "path": "./themes/Learn Together Theme-color-theme.json"
+            }
+        ]
+    }
+}
