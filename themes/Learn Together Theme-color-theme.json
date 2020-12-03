@@ -2,8 +2,9 @@
 	"name": "Learn Together Theme",
 	"type": "light",
 	"colors": {
-		"editor.background": "#f5f5f5",
-		"editor.foreground": "#333333"
+		"editor.background": "#ffffff",
+		"editor.foreground": "#333333",
+		"activityBar.background": "#7c4bee"
 	},
 	"tokenColors": [
 		{
