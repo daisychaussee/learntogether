@@ -4,31 +4,36 @@
 	"colors": {
 		"editor.background": "#ffffff",
 		"editor.foreground": "#333333",
-		"statusBar.background": "#7B83EB",
-		"statusBar.noFolderBackground": "#7B83EB",
 		"activityBar.background": "#464EB8",
-		"icon.foreground": "#7B83EB",
-		"descriptionForeground": "#7B83EB",
-		"window.activeBorder": "#2CFFC0",
-		"window.inactiveBorder": "#2CFFC0",
 		"button.background": "#7B83EB",
 		"button.hoverBackground": "#c3c6ee",
-		"textBlockQuote.background": "#c3c6ee",
-		"textLink.activeForeground": "#464EB8",
-		"textLink.foreground": "#309778",
+		"descriptionForeground": "#7B83EB",
+		"dropdown.background": "#464EB8",
+		"dropdown.listBackground": "#464EB8",
+		"dropdown.foreground": "#ffffff",
+		"icon.foreground": "#7B83EB",
 		"input.border": "#309778",
 		"input.foreground": "#464EB8",
 		"inputOption.activeForeground": "#7B83EB",
-		"sideBar.background": "#e1e2f3",
+		"list.activeSelectionBackground": "#676eca",
+		"list.dropBackground": "#676eca",
+		"list.hoverBackground": "#c0c1cc",
+		"list.focusBackground": "#afcac2",
+		"notifications.background": "#333333",
+		"notifications.foreground": "#edeef3",
+		"notificationCenterHeader.background": "#309778",
 		"panel.border": "#464EB8",
 		"panelTitle.activeForeground": "#464EB8",
+		"sideBar.background": "#e1e2f3",
+		"statusBar.background": "#7B83EB",
+		"statusBar.noFolderBackground": "#7B83EB",
+		"textBlockQuote.background": "#c3c6ee",
+		"textLink.activeForeground": "#464EB8",
+		"textLink.foreground": "#309778",
 		"titleBar.activeForeground": "#464EB8",
 		"titleBar.inactiveForeground": "#464EB8",
-		"notifications.background": "#464EB8",
-		"notificationCenterHeader.background": "#309778",
-		"dropdown.background": "#464EB8",
-		"dropdown.listBackground": "#464EB8",
-		"dropdown.foreground": "#ffffff"
+		"window.activeBorder": "#2CFFC0",
+		"window.inactiveBorder": "#2CFFC0"
 	},
 	"tokenColors": [
 		{
@@ -39,7 +44,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#AAAAAA"
+				"foreground": "#656ab6"
 			}
 		},
 		{
@@ -47,7 +52,7 @@
 			"scope": "comment.block.preprocessor",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#AAAAAA"
+				"foreground": "#656ab6"
 			}
 		},
 		{
@@ -57,7 +62,7 @@
 				"comment.block.documentation"
 			],
 			"settings": {
-				"foreground": "#448C27"
+				"foreground": "#656ab6"
 			}
 		},
 		{
