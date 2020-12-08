@@ -4,6 +4,10 @@
     "description": "A custom VS Code theme for Microsoft Teams developers and anyone who appreciates the Teams purple color scheme.",
     "icon": "images/learntogetherteamsbit.png",
     "license": "SEE LICENSE IN LICENSE.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/daisychaussee/learntogether"
+      },
     "galleryBanner": {
         "color": "#464EB8",
         "theme": "light"
