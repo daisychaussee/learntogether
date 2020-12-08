@@ -2,7 +2,7 @@
     "name": "learn-together-color-theme",
     "displayName": "Learn Together Microsoft Teams Purple Theme",
     "description": "A custom VS Code theme for Microsoft Teams developers and anyone who appreciates the Teams purple color scheme.",
-    "icon": "images/learntogetherteamsbit.png",
+    "icon": "images/learntogetherthemeicon.png",
     "license": "SEE LICENSE IN LICENSE.md",
     "repository": {
         "type": "git",
