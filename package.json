@@ -1,8 +1,19 @@
 {
-    "name": "learn-together-theme",
-    "displayName": "Learn Together Theme",
-    "description": "TODO - Daisy will tell you",
+    "name": "learn-together-color-theme",
+    "displayName": "Learn Together Microsoft Teams Purple Theme",
+    "description": "A custom VS Code theme for Microsoft Teams developers and anyone who appreciates the Teams purple color scheme.",
+    "icon": "images/learntogetherteamsbit.png",
+    "license": "SEE LICENSE IN LICENSE.md",
+    "galleryBanner": {
+        "color": "#464EB8",
+        "theme": "light"
+    },
     "version": "0.0.1",
+    "publisher": "MSFTLearnTogether",
+    "keywords": [
+        "Theme",
+        "Light Theme"
+    ],
     "engines": {
         "vscode": "^1.51.0"
     },
@@ -12,9 +23,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Learn Together Theme",
+                "label": "Learn Together (Teams Purple)",
                 "uiTheme": "vs",
-                "path": "./themes/Learn Together Theme-color-theme.json"
+                "path": "./themes/LearnTogether-light-color-theme.json"
             }
         ]
     },

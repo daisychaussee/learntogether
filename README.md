@@ -1,13 +1,13 @@
 # README
-## This is the README for your extension "learn-together-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+## Learn Together (Teams Purple) Theme
+This extension for Visual Studio Code adds a custom theme titled "Learn Together (Teams Purple)". It is a light color theme with the Microsoft Teams purple color scheme used.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+## Installation
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Open **Extensions** sidebar panel in Visual Studio Code. `View → Extensions`
+Search for `Learn Together (Teams Purple)`
+Click **Install**
+Click **Reload**
+File > Preferences > Color Theme > **Learn Together (Teams Purple)**
 
 **Enjoy!**
