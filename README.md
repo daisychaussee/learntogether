@@ -3,7 +3,7 @@
 
 This extension for Visual Studio Code adds a custom theme titled "Learn Together (Teams Purple)". It is a light color theme with the Microsoft Teams purple color scheme used.
 
-![A screenshot of Visual Studio code with the Learn Together theme enabled](/images/theme-learn-together.png)
+![A screenshot of Visual Studio code with the Learn Together theme enabled](images/theme-learn-together.png)
 
 ## Installation
 
