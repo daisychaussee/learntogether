@@ -29,7 +29,7 @@
             {
                 "label": "Learn Together (Teams Purple)",
                 "uiTheme": "vs",
-                "path": "./themes/LearnTogether-light-color-theme.json"
+                "path": "./themes/Learn-Together-light-color-theme.json"
             }
         ]
     },
