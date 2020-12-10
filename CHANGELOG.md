@@ -4,7 +4,7 @@ All notable changes to the "learn-together-theme" extension will be documented i
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## 1.0.1
+## 1.0.2
 
 - Renamed files to correct publication issue
 - Updated gallery banner 1.0.0
